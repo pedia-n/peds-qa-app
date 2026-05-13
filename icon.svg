@@ -1,0 +1,17 @@
+{
+  "name": "小児科専攻医 Q&A",
+  "short_name": "専攻医Q&A",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "description": "迷った時に最初の30秒へ戻るための小児科専攻医向け判断支援UI",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
